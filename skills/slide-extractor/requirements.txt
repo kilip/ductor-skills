@@ -1,0 +1,6 @@
+python-pptx
+pytesseract
+easyocr
+Pillow
+numpy
+opencv-python-headless
